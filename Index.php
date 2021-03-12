@@ -56,7 +56,7 @@ $stmt = $conn->query($sql);
 						</div><?php
 					}
 				} ?>
-				<small class="d-block font-italic text-muted text-center">Live every day like it's your last</small>
+				<small class="d-block font-italic text-muted text-center">test Live every day like it's your last</small>
 			</div>
 			<div class="mx-auto" id="AddTaskFormButtonId">
 				<button id="AddTaskFormButton" type="submit" class="btn btn-primary mx-auto">Add Task</button>	
